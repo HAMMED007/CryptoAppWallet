@@ -1,16 +1,26 @@
-# cryptoapp
+# Crypto Wallet & Price Checker App AFENIFERE HAMMED ADEWUMI
 
-A new Flutter project.
+This is the official repository for the Crypto Wallet & Price Checker App built with Flutter for Android, designed to offer a seamless mobile experience for managing cryptocurrency assets and checking real-time prices against the Nigerian Naira (NGN). The app leverages Google Firebase for backend services.
+
+## Features
+
+- **Secure Login**: Login with email/password, Facebook, or Google.
+- **Home Page**: Display of BTC/NGN, ETH/NGN, and USDT/NGN rates updated in real-time.
+- **Wallet Page**: Send and receive Bitcoin (BTC) transactions securely.
+- **Profile Page**: Manage your user profile and logout functionalities.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Android Studio
+- Flutter SDK
+- Firebase account
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/HAMMED007/CryptoAppWallet.git
