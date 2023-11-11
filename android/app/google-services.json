@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "291860264740",
+    "project_id": "cryptosingapor",
+    "storage_bucket": "cryptosingapor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291860264740:android:bec821e2318b5cfaafa5b1",
+        "android_client_info": {
+          "package_name": "com.gaas.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291860264740-qs6us7tgme7c6vic0bc4b2ld636rbq4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaas.cryptoapp",
+            "certificate_hash": "174c9b627261c7183f32a1458cb546e0c76de659"
+          }
+        },
+        {
+          "client_id": "291860264740-35eq5t7u4verupvk2tgfs36sou49ulp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOk3G9A6gODDM4DZ4I5mH4-XOchzcLtHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291860264740-35eq5t7u4verupvk2tgfs36sou49ulp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291860264740-rmqfdba7uup3mio2h8pnm4eoh9b65l5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaas.cryptoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
